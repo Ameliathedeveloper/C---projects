@@ -6,7 +6,13 @@ using namespace std;
 
 int main()
 {
+   cout << "Amelia Davies-Smith"; 
+  return 0; 
+   
+   
+   
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+    
 
     for (const string& word : msg)
     {
